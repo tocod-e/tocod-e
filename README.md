@@ -266,13 +266,16 @@ class MohammedShareek:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tocod-e&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a8cff&icon_color=1a8cff&text_color=c9d1d9" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tocod-e&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a8cff&text_color=c9d1d9" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tocod-e&theme=tokyonight" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tocod-e&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a8cff&ring=1a8cff&fire=ff6b35&currStreakLabel=1a8cff" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tocod-e&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tocod-e&theme=tokyonight" height="180"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=tocod-e&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a8cff&ring=1a8cff&fire=ff6b35&currStreakLabel=1a8cff&sideLabels=c9d1d9&dates=c9d1d9" height="180"/>
 
 </div>
-
 
 ---
 
