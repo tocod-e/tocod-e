@@ -265,10 +265,10 @@ class MohammedShareek:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohammedShareek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a8cff&icon_color=1a8cff&text_color=c9d1d9" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedShareek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a8cff&text_color=c9d1d9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tocod-e&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a8cff&icon_color=1a8cff&text_color=c9d1d9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tocod-e&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a8cff&text_color=c9d1d9" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedShareek&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a8cff&ring=1a8cff&fire=ff6b35&currStreakLabel=1a8cff" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tocod-e&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a8cff&ring=1a8cff&fire=ff6b35&currStreakLabel=1a8cff" height="180"/>
 
 </div>
 
@@ -333,7 +333,7 @@ class MohammedShareek:
 
 <div align="center">
 
-[![Mohammed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedShareek&bg_color=0d1117&color=1a8cff&line=1a8cff&point=ffffff&area=true&hide_border=true)](https://github.com/MohammedShareek)
+[![Mohammed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tocod-e&bg_color=0d1117&color=1a8cff&line=1a8cff&point=ffffff&area=true&hide_border=true)](https://github.com/MohammedShareek)
 
 </div>
 
@@ -346,7 +346,7 @@ class MohammedShareek:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6b9c,50:0a3d62,100:0d1117&height=120&section=footer" width="100%"/>
 
 **👁️ Profile Views**  
-![Visitor Count](https://komarev.com/ghpvc/?username=MohammedShareek&color=1a8cff&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=tocod-e&color=1a8cff&style=for-the-badge&label=PROFILE+VIEWS)
 
 *Last updated: 2026 · Albstadt-Ebingen, Germany*
 
