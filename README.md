@@ -23,7 +23,7 @@
 class MohammedShareek:
     def __init__(self):
         self.role        = "IT Security Specialist & Systems Support Engineer"
-        self.education   = "B.Sc. IT Security (Graduating)"
+        self.education   = "B.Sc. IT Security"
         self.location    = "Stuttgart, Germany"
         self.experience  = "4+ years in Enterprise IT & Security"
         self.languages   = ["English 🇬🇧 (Fluent)", "German 🇩🇪 (Fluent)", "Arabic 🇾🇪 (Native)"]
