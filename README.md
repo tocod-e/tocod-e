@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:1a6b9c&height=200&section=header&text=Mohammed%20Shareek&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=IT%20Security%20Specialist%20%7C%20Systems%20Engineer%20%7C%20B.Sc.%20IT%20Security&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A8CFF&center=true&vCenter=true&width=700&lines=🔐+IT+Security+Specialist+%26+Penetration+Tester;🛡️+Network+Security+%26+Firewall+Engineer;⚙️+Systems+%26+Infrastructure+Expert;🎓+B.Sc.+IT+Security+Graduate;🌐+Trilingual%3A+English+%7C+German+%7C+Arabic)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A8CFF&center=true&vCenter=true&width=700&lines=🔐+IT+Security+Specialist+%26+Penetration+Tester;🛡️+Network+Security+%26+Firewall+Engineer;⚙️+Systems+%26+Infrastructure+Expert;🎓+B.Sc.+IT+Security;🌐+Trilingual%3A+English+%7C+German+%7C+Arabic)](https://git.io/typing-svg)
 
 <br/>
 
