@@ -338,7 +338,7 @@ class MohammedShareek:
 
 <div align="center">
 
-[![Mohammed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tocod-e&bg_color=0d1117&color=1a8cff&line=1a8cff&point=ffffff&area=true&hide_border=true)](https://github.com/MohammedShareek)
+<a href="https://github.com/tocod-e"><img src="./assets/activity-graph.svg" alt="Mohammed's GitHub activity graph" width="100%"/></a>
 
 </div>
 
@@ -350,8 +350,9 @@ class MohammedShareek:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6b9c,50:0a3d62,100:0d1117&height=120&section=footer" width="100%"/>
 
-**👁️ Profile Views**  
-![Visitor Count](https://komarev.com/ghpvc/?username=tocod-e&color=1a8cff&style=for-the-badge&label=PROFILE+VIEWS)
+**👁️ Profile Views**
+
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftocod-e&label=PROFILE%20VIEWS&countColor=%231a8cff&style=for-the-badge" alt="Profile views"/>
 
 *Last updated: 2026 · Albstadt-Ebingen, Germany*
 
